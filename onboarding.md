@@ -19,4 +19,5 @@
  * Add your FCC profile link to the “What I do” section on your Slack profile
 
 6. Join [Treehouse](https://teamtreehouse.com)
- * Register with Treehouse using the same email you provided in your application
+ * You will receive a notification from Treehouse, sent to the same email you use in your
+ Code Epic application. Create an account once you receive this email.
