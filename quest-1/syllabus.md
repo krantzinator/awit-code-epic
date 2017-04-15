@@ -2,9 +2,10 @@
 
 ## Weeks 1-4
 
-### Treehouse
+### Treehouse - programming concepts foundation
 
-- TBD
+- [Learn Python](https://teamtreehouse.com/tracks/learn-python) (20 hours)
+- [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) (68 hours)
 
 ## Weeks 5-8
 
