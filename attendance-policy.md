@@ -1,6 +1,7 @@
 # Attendance policy
 
 ## Weekly mentor meetings (virtual or in-person)
+
 #### Expectations
 
 - You will attend these weekly
@@ -40,7 +41,7 @@
 
 #### Policy on absences
 
-- If you miss two consecutive daily standups, you may be asked to leave the cohort and to try to complete the Quest in the next round
+- If you miss two consecutive daily standups, you may be asked to leave the cohort
 
 ## Weekly Work
 
@@ -52,7 +53,7 @@
 
 - We understand some weeks may have emergencies or more-than-average work from your full-time jobs.
 - You are permitted to get up to one (1) week of work behind due to a valid reason. If this happens, you are required to catch up on the previous week’s work by mid-week in the immediately following week, so as to not hold back the cohort from marking cards as completed.
-- If you accumulate more than one extra week’s worth of work, you may be asked to leave the cohort and to try to complete the Quest in the next round
+- If you accumulate more than one extra week’s worth of work, you will be asked to leave the cohort and to try to complete the Quest in the next round
 
 #### What qualifies as a valid reason?
 A valid reason is one that is not foreseen, and therefore not able to be planned ahead for. This includes, but is not necessarily limited to,
