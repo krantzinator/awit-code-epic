@@ -1,5 +1,7 @@
 [Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
+### 100-200 hours
+
 This class is offered for free. The edX platform offers you the option to pay for it in order to receive a Verified Certificate. Receiving this certificate is not necessary for the Code Epic, so it is up to you if you want to pay for that for yourself. We only need you to show us proof you have completed the course.
 
 Skills covered
