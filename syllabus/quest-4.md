@@ -24,8 +24,9 @@
 
 ## Weeks 45-48
 
-### Job shadowing && Interview practice && Resume writing
+### Capstone Project && Job shadowing && Interview practice && Resume writing
 
+- Capstone Project (details TBD by cohort and mentors)
 - Job shadowing (possiby companies: Hyland, Coffee and Code, CoverMyMeds, RVShare)
 - Interview practice and coaching
 - Resume writing workshop
