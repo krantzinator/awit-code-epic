@@ -7,6 +7,8 @@
 
 # Free Code Camp Video Challenges
 
+These videos are found under the **Video Challenges** header on [FCC's Map](https://www.freecodecamp.com/map).
+
 - Computer Basics (2 hours)
 - The DOM (30 minutes)
 - JavaScript Lingo (1 hour)
