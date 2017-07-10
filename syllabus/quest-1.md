@@ -4,19 +4,32 @@
 
 ### Treehouse - programming concepts foundation
 
-- [Learn Python](https://teamtreehouse.com/tracks/learn-python) (20 hours)
-- [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) (68 hours)
+- Custom WIT Treehouse Track
+  - Python Basics
+  - Python Collections
+  - Object-Oriented Python
+  - Dates and Times in Python
+  - Using Databases in Python
+  - JavaScript Basics
+  - JavaScript Loops, Arrays, and Objects
+  - Bootstrap 4 Basics
+- Free Code Camp Responsive Design with Bootstrap
+- Free Code Camp Tribute Page
+- Free Code Camp Portfolio Page
 
 ## Weeks 5-8
 
 ### Free Code Camp - Intro projects, algorithms
 
-- Git (Back End Dev track)
-- jQuery
-- Responsive Design with Bootstrap
-- Tribute Page
-- Portfolio Page
-- Basic Algorithm Scripting
+- Custom WIT Treehouse Track
+  - AJAX Basics
+  - Object-Oriented JavaScript  
+  - jQuery Basics
+  - Accessibility
+  - Website Optimization
+  - Console Foundations
+- Free Code Camp jQuery
+- Free Code Camp Basic Algorithm Scripting
 
 ## Weeks 9-12
 
