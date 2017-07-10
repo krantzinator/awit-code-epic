@@ -20,16 +20,17 @@
   - [Express Basics](https://teamtreehouse.com/library/express-basics)
   - [npm Basics](https://teamtreehouse.com/library/npm-basics)
   - [REST API Basics](https://teamtreehouse.com/library/rest-api-basics)
+  - [Build a REST API With Express](https://teamtreehouse.com/library/build-a-rest-api-with-express)
+  - [Mongo Basics](https://teamtreehouse.com/library/mongo-basics)
   - [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
-- Free Code Camp Node.js and Express.js
 
 ## Weeks 33-36
 
 ### Free Code Camp projects
 
+- Node.js and Express.js
+- MongoDB
 - Get Set for our API Development Projects
 - Timestamp Microservice
 - Request Header Parser Microservice
 - URL Shortener Microservice
-- Image Search Abstraction Layer
-- File Metadata Microservice
