@@ -2,7 +2,7 @@
 
 ## Weeks 1-4
 
-### Treehouse - programming concepts foundation
+### Treehouse programming concepts, web dev basics
 
 - Free Code Camp Tribute Page
 - Custom WIT Treehouse Track
@@ -19,7 +19,7 @@
 
 ## Weeks 5-8
 
-### Free Code Camp - Intro projects, algorithms
+### Free Code Camp Beginner projects, algorithms
 
 - Custom WIT Treehouse Track
   - AJAX Basics
@@ -33,7 +33,7 @@
 
 ## Weeks 9-12
 
-### Free Code Camp - Intermediate projects
+### Free Code Camp Intermediate projects
 
 - JSON APIs and AJAX
 - Random Quote Machine
