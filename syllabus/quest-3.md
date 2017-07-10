@@ -2,7 +2,7 @@
 
 ## Weeks 25 - 28
 
-### Free Code Camp - Data Visualization projects
+### Free Code Camp Data Visualization projects
 
 - Visualize Data with a Bar Chart
 - Visualize Data with a Scatterplot Graph
