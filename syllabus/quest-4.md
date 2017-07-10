@@ -2,21 +2,17 @@
 
 ## Weeks 37-40
 
-### Free Code Camp - Back End Dev projects && Treehouse - MongoDB
+### Free Code Camp - Back End Dev projects
 
-- Treehouse: [Mongo Basics](https://teamtreehouse.com/library/mongo-basics) (1.5 hours)
-- FCC: MongoDB
-- Timestamp Microservice
-- Request Header Parser Microservice
-- URL Shortener Microservice
 - Image Search Abstraction Layer
 - File Metadata Microservice
+- Get Set for our Dynamic Web Application Projects
+- Build a Voting App
 
 ## Weeks 41-44
 
 ### Free Code Camp - Back End Dev projects
 
-- Build a Voting App
 - Build a Nightlife Coordination App
 - Chart the Stock Market
 - Manage a Book Trading Club
