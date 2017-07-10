@@ -2,29 +2,29 @@
 
 ## Weeks 13 - 16
 
-### Free Code Camp - algorithms
+### Free Code Camp algorithms && Treehouse React, D3
 
 - Intermediate algorithm scripting
+- Custom WIT Treehouse track
+  - [Learn React](https://teamtreehouse.com/tracks/learn-react)
+  - [D3.js course](https://teamtreehouse.com/library/d3js)
 - Advanced algorithm scripting
-- FCC videos
 
 ## Weeks 17-20
 
-### Free Code Camp - projects
+### Free Code Camp projects
 
-- Treehouse: [Learn React](https://teamtreehouse.com/tracks/learn-react) (7 hours)
-- Treehouse: [D3.js course](https://teamtreehouse.com/library/d3js) (3 hours)
 - JavaScript calculator
 - Pomodoro clock
 - Tic Tac Toe game
 
 ## Weeks 21-24
 
-### Treehouse - React & D3 && Free Code Camp React projects
+### Free Code Camp React projects
 
 - Simon game
-- FCC: Markdown previewer
-- FCC: Camper leaderboard
-- FCC: Recipe box
-- FCC: Game of Life
-- FCC: Roguelike dungeon crawler game
+- Markdown previewer
+- Camper leaderboard
+- Recipe box
+- Game of Life
+- Roguelike dungeon crawler game
