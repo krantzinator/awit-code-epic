@@ -15,10 +15,13 @@
 ### Free Code Camp && Treehouse
 
 - Automated testing and debugging
-- Treehouse: [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2) (2 hours)
-- Treehouse: [Express Basics](https://teamtreehouse.com/library/express-basics) (3 hours)
-- Treehouse: [npm Basics](https://teamtreehouse.com/library/npm-basics) (1.5 hours)
-- FCC: Node.js and Express.js
+- Custom WIT Treehouse track
+  - [Node.js Basics](https://teamtreehouse.com/library/nodejs-basics-2)
+  - [Express Basics](https://teamtreehouse.com/library/express-basics)
+  - [npm Basics](https://teamtreehouse.com/library/npm-basics)
+  - [REST API Basics](https://teamtreehouse.com/library/rest-api-basics)
+  - [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+- Free Code Camp Node.js and Express.js
 
 ## Weeks 33-36
 
