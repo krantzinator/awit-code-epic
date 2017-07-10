@@ -4,6 +4,7 @@
 
 ### Treehouse - programming concepts foundation
 
+- Free Code Camp Tribute Page
 - Custom WIT Treehouse Track
   - Python Basics
   - Python Collections
@@ -14,7 +15,6 @@
   - JavaScript Loops, Arrays, and Objects
   - Bootstrap 4 Basics
 - Free Code Camp Responsive Design with Bootstrap
-- Free Code Camp Tribute Page
 - Free Code Camp Portfolio Page
 
 ## Weeks 5-8
@@ -23,7 +23,7 @@
 
 - Custom WIT Treehouse Track
   - AJAX Basics
-  - Object-Oriented JavaScript  
+  - Object-Oriented JavaScript
   - jQuery Basics
   - Accessibility
   - Website Optimization
