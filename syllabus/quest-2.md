@@ -12,17 +12,17 @@
 
 ### Free Code Camp - projects
 
+- Treehouse: [Learn React](https://teamtreehouse.com/tracks/learn-react) (7 hours)
+- Treehouse: [D3.js course](https://teamtreehouse.com/library/d3js) (3 hours)
 - JavaScript calculator
 - Pomodoro clock
 - Tic Tac Toe game
-- Simon game
 
 ## Weeks 21-24
 
 ### Treehouse - React & D3 && Free Code Camp React projects
 
-- Treehouse: [Learn React](https://teamtreehouse.com/tracks/learn-react) (7 hours)
-- Treehouse: [D3.js course](https://teamtreehouse.com/library/d3js) (3 hours)
+- Simon game
 - FCC: Markdown previewer
 - FCC: Camper leaderboard
 - FCC: Recipe box
