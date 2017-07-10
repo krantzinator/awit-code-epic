@@ -2,7 +2,7 @@
 
 ## Weeks 37-40
 
-### Free Code Camp - Back End Dev projects
+### Free Code Camp Back End Dev projects
 
 - Image Search Abstraction Layer
 - File Metadata Microservice
@@ -11,7 +11,7 @@
 
 ## Weeks 41-44
 
-### Free Code Camp - Back End Dev projects
+### Free Code Camp Back End Dev projects
 
 - Build a Nightlife Coordination App
 - Chart the Stock Market
